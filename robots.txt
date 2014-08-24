@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:/admin/
+Disallow:/Application/
+Disallow:/public/
+Disallow:/mapi/
+Disallow:/install/
+Disallow:/update/

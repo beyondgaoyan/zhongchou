@@ -1,6 +1,6 @@
 <?php 
 // by: deblue
-
+//git test
 if(!defined("ADMIN_ROOT"))
 {
 	die("Invalid access");
